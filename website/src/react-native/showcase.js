@@ -75,8 +75,8 @@ var featured = [
     name: 'Myntra',
     icon: 'http://a5.mzstatic.com/us/r30/Purple6/v4/9c/78/df/9c78dfa6-0061-1af2-5026-3e1d5a073c94/icon350x350.png',
     linkAppStore: 'https://itunes.apple.com/in/app/myntra-fashion-shopping-app/id907394059',
-    infoLink: 'https://techcrunch.com/2014/05/22/flipkart-myntra-acqusition/',
-    infoTitle: 'Flipkart Buys Fashion E-tailer Myntra To Fight Amazon',
+    infoLink: 'http://www.business-standard.com/article/companies/eyes-on-amazon-flipkart-myntra-announce-merger-114052200545_1.html',
+    infoTitle: 'With fashion on its mind, Flipkart acquires Myntra',
   },
   {
     name: 'SoundCloud Pulse',
